@@ -103,6 +103,3 @@ function init() {
 
 
 
-
-// var x = document.querySelector('#score-0').textContent;
-// console.log(dice);
